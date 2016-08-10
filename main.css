@@ -1,0 +1,73 @@
+/*
+colors:
+#ECECEC
+#D8E0E3
+#C4CB8D
+#3E3D50
+#D73F45
+#F3E0DA
+*/
+
+body {
+  background-color: #3E3D50;
+}
+
+h1 {
+  color: #D73F45;
+  margin-bottom: 25px;
+}
+
+#random {
+  color: #3E3D50;
+  background-color: #C4CB8D;
+  margin-bottom: 25px;
+  border: 2px solid;
+  border-radius: 5px;
+}
+
+#random:hover {
+  color: #ECECEC;
+}
+
+.input-group {
+  background-color: #C4CB8D;
+  margin-bottom: 50px;
+  border: 2px solid;
+  border-radius: 5px;
+}
+
+.btn-default {
+  color: #3E3D50;
+  background-color: #C4CB8D;
+  border-radius: 2px solid;
+}
+
+.btn-default:hover {
+  color: #ECECEC;
+  background-color: #C4CB8D;
+}
+
+.jumbotron {
+  background-color: #F3E0DA;
+  padding: 5px 10px 10px 5px;
+  margin: 10px, 50px, 10px, 50px;
+
+}
+.jumbotron:hover {
+  border-left: solid 8px;
+  border-left-color: #D73F45;
+}
+
+
+.btn-lg {
+  background-color: #C4CB8D;
+  color: #3E3D50;
+}
+.btn-lg:hover {
+  color: #ECECEC;
+  background-color: #C4CB8D;
+}
+
+#input {
+  background-color: #F3E0DA;
+}
